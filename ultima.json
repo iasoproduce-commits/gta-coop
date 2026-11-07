@@ -1,9 +1,9 @@
 {
-    "pacote":  "gta-coop-core0.8.0-script0.6.1",
+    "pacote":  "gta-coop-core0.8.0-script0.6.2",
     "core":  "0.8.0",
-    "script":  "0.6.1",
-    "arquivo":  "pacotes/gta-coop-core0.8.0-script0.6.1.zip",
-    "sha256":  "031fbac2d7d98b3734b00e3fef259f879002962b977136b7c91f5dcbdd7593f7",
-    "data":  "2026-11-07 16:21",
-    "notas":  "Avisos de conexão na tela; o jogador 2 vai para perto do host ao conectar; atualizador automático"
+    "script":  "0.6.2",
+    "arquivo":  "pacotes/gta-coop-core0.8.0-script0.6.2.zip",
+    "sha256":  "de12a07b91580e5b3e962a09b424d00b3c0000a0732a179172d158608424bd70",
+    "data":  "2026-11-07 16:49",
+    "notas":  "A pé você não é mais puxado de volta; pode sentar no carro do host; aparece com o seu personagem"
 }
