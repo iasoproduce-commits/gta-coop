@@ -1,9 +1,9 @@
 {
-    "pacote":  "gta-coop-core0.8.0-script0.6.2",
-    "core":  "0.8.0",
-    "script":  "0.6.2",
-    "arquivo":  "pacotes/gta-coop-core0.8.0-script0.6.2.zip",
-    "sha256":  "de12a07b91580e5b3e962a09b424d00b3c0000a0732a179172d158608424bd70",
-    "data":  "2026-11-07 16:49",
-    "notas":  "A pé você não é mais puxado de volta; pode sentar no carro do host; aparece com o seu personagem"
+    "pacote":  "gta-coop-core0.9.0-script0.7.0",
+    "core":  "0.9.0",
+    "script":  "0.7.0",
+    "arquivo":  "pacotes/gta-coop-core0.9.0-script0.7.0.zip",
+    "sha256":  "371bbb03583f2313bb7e537b525df5b11e4ded91439f46147ac79a7ebba481fd",
+    "data":  "2026-11-07 20:33",
+    "notas":  "Sincronização nova (protocolo 3): os dois veem os mesmos pedestres, carros, portas, dano e explosões. Os DOIS precisam atualizar."
 }
